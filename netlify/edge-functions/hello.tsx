@@ -19,5 +19,5 @@ export default async function handler(req: Request, context: Context) {
 }
 
 export const config: Config = {
-  path: "/hello-tsx",
+  path: "/hello",
 };
