@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@netlify/edge-functions": "^2.3.1",
+    "@netlify/functions": "^2.6.0"
+  },
+  "name": "nodejs_netlify-edge-function",
+  "description": "This repo demo how to use edge function in netlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minh Tran",
+  "license": "ISC"
+}
